@@ -463,12 +463,12 @@ input[type="file"].upload-change {
 }
 @media (hover: hover) {
   .arrow-top:hover {
-    background-color: var(--main-hover);
+    background-color: var(--main-color);
     color: var(--white-color);
   }
 }
 .arrow-top:focus {
-  background-color: var(--main-hover);
+  background-color: var(--main-color);
   color: var(--white-color);
 }
 
