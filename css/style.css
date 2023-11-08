@@ -444,7 +444,7 @@ input[type="file"].upload-change {
 /*                                 arrow-top                           */
 .arrow-top {
   position: fixed;
-  bottom: 75px;
+  bottom: 20px;
   inset-inline-start: 20px;
   display: none;
   z-index: 10;
@@ -474,8 +474,8 @@ input[type="file"].upload-change {
 
 @media (max-width: 767px) {
   .arrow-top {
-    bottom: 65px;
-    inset-inline-start: 14px;
+    bottom: 10px;
+    inset-inline-start: 10px;
   }
 }
 @media (min-width: 1200px) {
